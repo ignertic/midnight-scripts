@@ -38,4 +38,5 @@ def get_combinations(n_com, product):
 		print("StopIteration")
 		return valid_combinations
 
-print(get_combinations(2, 800)) #Number of combinations must be plausible
+print(get_combinations(2, 800)) #2->Number of combinations expected as output
+#800 -> Product
